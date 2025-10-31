@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Currently Learning ML & DL
+I'm Currently Learning ML,DL & NLP
 
 
 ## 🌐 Socials:
