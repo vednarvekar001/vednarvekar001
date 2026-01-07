@@ -128,6 +128,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=vednarvekar001&theme=radical&no-frame=true&row=1&column=7"/>
 </p>
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/vednarvekar001?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
+</p>
+
+
 ---
 
 ## 🧠 What I’m Focused On Right Now
