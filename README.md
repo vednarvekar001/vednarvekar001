@@ -3,14 +3,18 @@
 <h1>👋 Hi, I'm Ved Narvekar</h1>
 <h3>Code. Create. Conquer.</h3>
 
-<br/><br/>
+<br></br>
 
-<h3>“The best way to predict the future is to invent it.”</h3><br/>
-— Alan Kay
+<div align="center">
+  <blockquote>
+    <i>“The best way to predict the future is to invent it.”</i></br>
+    — <b>Alan Kay</b>
+  </blockquote>
+</div>
 
 </div>
 
----
+<br></br>
 
 ## 🚀 About Me
 - 🎓 Engineering student passionate about **AI, ML & Backend Systems**
@@ -18,10 +22,9 @@
 - ⚙️ I like building things that *actually run*, not just demos
 - 🔥 Obsessed with growth, consistency, and leveling up
 
----
+<br></br>
 
 <h2>🛠️ Technology Stack</h2>
-
 <table align="center">
   <tr>
     <td width="33%" valign="top">
@@ -103,7 +106,7 @@
 </tr>
 </table>
 
----
+<br></br>
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -114,26 +117,27 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vednarvekar001&layout=compact&theme=radical&hide_border=true" />
 </p>
 
----
 
 ## 🔥 GitHub Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=vednarvekar001&theme=radical&hide_border=true" />
 </p>
 
----
+<br></br>
 
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vednarvekar001&theme=radical&no-frame=true&row=1&column=7"/>
 </p>
 
+<br></br>
+
+## 💀 LeetCode
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/vednarvekar001?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
 </p>
 
-
----
+<br></br>
 
 ## 🧠 What I’m Focused On Right Now
 - Building **backend-first projects**
@@ -162,10 +166,8 @@
 
 ### ⭐ Thanks for stopping by — let’s build something real.
 
-</div>
-
-
 <img src="https://komarev.com/ghpvc/?username=vednarvekar001&label=Profile%20Views&color=8a2be2&style=flat" />
+</div>
 </div>
 
 
