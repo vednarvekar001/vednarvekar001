@@ -109,19 +109,24 @@
 <br></br>
 
 ## 📊 GitHub Stats
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vednarvekar001&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vednarvekar001&layout=compact&theme=radical&hide_border=true" />
-</p>
+</p> -->
+<div align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=vednarvekar&theme=dark&hide_border=false" /><br/> -->
+  <img src="https://nirzak-streak-stats.vercel.app/?user=vednarvekar&theme=dark&hide_border=false" /><br/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vednarvekar&theme=dark&hide_border=false&layout=compact" /> -->
+</div>
 
 
+<!-- <p align="center">
 ## 🔥 GitHub Streak
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=vednarvekar001&theme=radical&hide_border=true" />
-</p>
+</p> -->
 
 <br></br>
 
