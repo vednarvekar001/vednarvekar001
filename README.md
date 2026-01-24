@@ -109,28 +109,30 @@
 <br></br>
 
 
-<!-- ## 📊 GitHub Stats <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vednarvekar001&show_icons=true&theme=radical&hide_border=true" />
+## 📊 GitHub Stats 
+<!-- <p align="center"> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=vednarvekar&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vednarvekar001&layout=compact&theme=radical&hide_border=true" />
-</p> -->
-<!-- <div align="center"> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=vednarvekar&theme=dark&hide_border=false" /><br/> -->
-  <!-- <img src="https://nirzak-streak-stats.vercel.app/?user=vednarvekar&theme=dark&hide_border=false" /><br/> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vednarvekar&theme=dark&hide_border=false&layout=compact" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vednarvekar&layout=compact&theme=radical&hide_border=true" />
+</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vednarvekar&theme=dark&hide_border=false" /><br/>  -->
+   <span> <img src="https://nirzak-streak-stats.vercel.app/?user=vednarvekar&theme=dark&hide_border=false" /> &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vednarvekar&theme=dark&hide_border=false&layout=compact" /></span>
 <!-- </div> -->
 
+<br></br>
 
 <!-- <p align="center">
 ## 🔥 GitHub Streak
-  <img src="https://streak-stats.demolab.com?user=vednarvekar001&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=vednarvekar&theme=radical&hide_border=true" />
 </p> -->
 
 
 <!--  ## 🏆 GitHub Trophies <p align="center"> -->
- <!-- <img src="https://github-profile-trophy.vercel.app/?username=vednarvekar001&theme=radical&no-frame=true&row=1&column=7"/>  -->
+ <!-- <img src="https://github-profile-trophy.vercel.app/?username=vednarvekar&theme=radical&no-frame=true&row=1&column=7"/>  -->
 <!-- </p> -->
 
 <!-- <br></br> -->
